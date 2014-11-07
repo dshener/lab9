@@ -15,7 +15,8 @@ person B to the repo.
 
 Person A: Declan Shener
 
-Person B: Michael Murphu
+Person B: Michael Murphy
+
 
 Now both partners should run
 
